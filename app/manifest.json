@@ -1,0 +1,10 @@
+{
+  "name": "Crowdraise",
+  "start_url": "http://crowdraise.net",
+  "description": "Decentralized Crowdfunding. Zero Fees.",
+  "icons": [{
+    "src": "https://crowdraise.net/img/piggy192-white.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
